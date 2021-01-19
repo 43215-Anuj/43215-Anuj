@@ -10,8 +10,7 @@ Experienced **Internship Operations Head** at [Internity Foundation](https://int
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=43215-Anuj&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=43215-Anuj&layout=compact)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=43215-Anuj&repo=repo-name&show_owner=true)](https://github.com/43215-Anuj/repo-name)
 
-Follow me **[tumblr](https://ajkkumr.tumblr.com/)**  Visit my **[dribbble](https://dribbble.com/Anujkumar)** account.
+Follow me **[tumblr](https://ajkkumr.tumblr.com/)** |||  Visit my **[dribbble](https://dribbble.com/Anujkumar)** account.
 
 #### Thank You for Visiting me!!!❤️
