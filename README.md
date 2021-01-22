@@ -1,6 +1,6 @@
 # Hi there! I'm Anuj Kumar 👋
 
-I'm a 🧑‍💻**Frontend Engineer** and a 🎨**Graphic Designer** based in Lucknow☀️. Currently Volunteering at [ISET Foundation](https://isetf.org) as a technical Coordinator.
+I'm a 🧑‍💻**Frontend Engineer** and a 🎨**Graphic Designer** based in Lucknow, India☀️. Currently Volunteering at [ISET Foundation](https://isetf.org) as a technical Coordinator.
 
 Experienced **Internship Operations Head** at [Internity Foundation](https://internity.in)
 
