@@ -5,7 +5,7 @@ I'm a 🧑‍💻**Frontend Engineer** and a 🎨**Graphic Designer** based in L
 Experienced **Internship Operations Head** at [Internity Foundation](https://internity.in)
 
 - 🔭 I’m currently working on 🤵[My Portfolio Project](https://anujkumar.gtsb.io/) and as a Freelancer. 👯 Looking for a Full Time Job as Frontend Developer
-- 💬 You Ask me about Web Development and Graphic designing. 
+- 💬 You can ask me about Web Development and Graphic designing. 
 
 ## Reach me out @📫 **anujkumr123@gmail.com**❤️
 
