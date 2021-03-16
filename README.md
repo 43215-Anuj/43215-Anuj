@@ -1,8 +1,9 @@
 # Hi there! I'm Anuj Kumar 👋
 This is [My Portfolio](https://anujkumar.gtsb.io/)
-I'm a 🧑‍💻**Frontend Engineer** and a 🎨**Graphic Designer** based in Lucknow, India☀️. Currently Volunteering at [ISET Foundation](https://isetf.org) as a technical Coordinator.
+I'm a 🧑‍💻**Frontend Engineer** and a 🎨**Graphic Designer** based in Lucknow, India☀️. 
+Currently Working as a Frontend Web developer intern trainee @ **VamSchool** and volunteering at [ISET Foundation](https://isetf.org) as a technical Coordinator.
 
-Experienced **Internship Operations Head** at [Internity Foundation](https://internity.in)
+Experienced **Internship Operations Head** and **Graphic Designing mentor** @ [Internity Foundation](https://internity.in) 
 
 - 🔭 I’m currently working as a Freelancer Frontend developer. 👯 Looking for a Full Time Job
 - 💬 You can ask me about Web Development and Graphic designing. 
