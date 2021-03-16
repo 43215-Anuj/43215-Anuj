@@ -1,4 +1,4 @@
-# Hi there! I'm Anuj Kumar 👋
+# Hi there! I'm Anuj 👋
 This is [My Portfolio](https://anujkumar.gtsb.io/)
 I'm a 🧑‍💻**Frontend Engineer** and a 🎨**Graphic Designer** based in Lucknow, India☀️. 
 Currently Working as a Frontend Web developer intern trainee @ **VamSchool** and volunteering at [ISET Foundation](https://isetf.org) as a technical Coordinator.
