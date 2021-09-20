@@ -5,7 +5,7 @@ Currently Working as a Frontend Web developer intern trainee @ **VamSchool** and
 
 Experienced **Internship Operations Head** and **Graphic Designing mentor** @ [Internity Foundation](https://internity.in) 
 
-- 🔭 I’m currently working as a Freelancer Frontend developer. 👯 Looking for a Full Time Job
+- 🔭 I’m currently working as a Frontend Web developer @ekaleido Innovations. 👯
 - 💬 You can ask me about Web Development and Graphic designing. 
 
 ## Reach me out @📫 **anujkumr123@gmail.com**❤️
