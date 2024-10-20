@@ -120,8 +120,8 @@ I'm a 🧑‍💻**Full Stack Developer**.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=43215-Anuj&theme=algolia&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=43215-Anuj&layout=compact&hide=c)
 
-- Explore me
--  **[Portfolio website](https://anuj.vercel.app/)** |  [<img alt="cypress" src="https://img.shields.io/badge/-Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />](https://dribbble.com/Anujkumar)  [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anuj-kumar43215/)
+- Checkout my:
+**[Portfolio website](https://anuj.vercel.app/)** |  [<img alt="cypress" src="https://img.shields.io/badge/-Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />](https://dribbble.com/Anujkumar)  [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anuj-kumar43215/)
 
 
 #### Thank You !!!❤️
