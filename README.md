@@ -1,7 +1,7 @@
 # Hi there! I'm Anuj 👋
 <p>Welcome to my page! </br> I'm Fullstack developer from <img src="https://taitongah.com.sg/wp-content/uploads/2020/11/india-flag-round-icon-256.png" width="13"/> <b>Lucknow, India</b>, currently living in  <b>Delhi, India</b>. </p>
 <p>
-This is my Portfolio [website](https://anuj.vercel.app)
+This is my Portfolio [Website](https://anuj.vercel.app)
 I'm a 🧑‍💻**Full Stack Developer**. 
 
 - Currently Working as a **Product Engineer (Frontend Web developer)** at LTIMindtree (Fosfor).
