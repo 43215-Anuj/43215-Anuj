@@ -1,12 +1,10 @@
 # Hi there! I'm Anuj 👋
-<p>Welcome to my page! </br> I'm Fullstack developer from <img src="https://taitongah.com.sg/wp-content/uploads/2020/11/india-flag-round-icon-256.png" width="13"/> <b>Lucknow, India</b>, currently living in  <b>Delhi, India</b>. </p>
+<p>Welcome to my page! </br> I'm Fullstack developer from <img src="https://taitongah.com.sg/wp-content/uploads/2020/11/india-flag-round-icon-256.png" width="13"/> <b>Lucknow, India</b>, currently living in  <b>Delhi(NCR), India</b>. </p>
 <p>
 
 I'm a 🧑‍💻**Full Stack Developer**. 
 
-- Currently Working as a **Product Engineer (Frontend Web developer)** at LTIMindtree (Fosfor).
-- Experienced **Internship Operations Head** and **Graphic Designing mentor** @ [Internity Foundation](https://internity.in) 
-
+- Currently Working as a **Senior Experience Engineer** at Publicis Sapient.
 - 💬 You can ask me about Web Development and Graphic designing. 
 
 <h3>Things I work with</h3>
